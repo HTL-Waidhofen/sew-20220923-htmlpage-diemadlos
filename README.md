@@ -7,4 +7,4 @@ Kogler: - Verantwortlicher für die **Struktur**: Anordnung der Elemente auf der
 Jonas Haag- Verantwortlicher für den **Inhalt**: Text-Inhalt (ohne Formatierung/Styling) auf der Website
   (z.B. Geschichte/Schauspieler/Versionen...); Textblöcke können auch copy/paste aus dem Internet sein)
 - Verantwortlicher für den **Style**: CSS Styles (möglichst reichhaltig, evtl. mit Bootstrap)
-- Verantwortlicher für die Einbindung eines **Formulars**: Erstellen eines Formulars auf der Website (z.B.: Registrierung
+- Verantwortlicher für die Einbindung eines **Formulars**: Kerschbaumer | Erstellen eines Formulars auf der Website (z.B.: Registrierung
