@@ -9,4 +9,4 @@ Jonas Haag- Verantwortlicher für den **Inhalt**: Text-Inhalt (ohne Formatierung
 - Verantwortlicher für den **Style**: CSS Styles (möglichst reichhaltig, evtl. mit Bootstrap)
 - Verantwortlicher für die Einbindung eines **Formulars**: Erstellen eines Formulars auf der Website (z.B.: Registrierung
   für Newsletter mit Name, Addresse, e-Mail, etc.). Mind. 5 Eingabefelder.
-- Verantwortlicher für **Grafik**: Einbettung von Grafiken und Icons in die HTML-Seite
+Vinzenz Maderthaner- Verantwortlicher für **Grafik**: Einbettung von Grafiken und Icons in die HTML-Seite
