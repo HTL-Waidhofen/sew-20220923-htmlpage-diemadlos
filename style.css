@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: rgb(175, 159, 194);
+}
+
+.topnav a {
+  float: left;
+  color:  #33076d;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: rgb(102, 46, 139);
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #33076d;
+  color: rgb(102, 46, 139);
+}
