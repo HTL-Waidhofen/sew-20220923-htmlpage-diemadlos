@@ -4,7 +4,7 @@ Das Team entwickelt eine Website zu einem eigenständig gewählten Thema (Film, 
 
 - Verantwortlicher für die **Struktur**: Anordnung der Elemente auf der Website: Menü, Navigationsbar
   (mit Links innerhalb der Website, Überschriften, etc.)
-- Verantwortlicher für den **Inhalt**: Text-Inhalt (ohne Formatierung/Styling) auf der Website
+Jonas Haag- Verantwortlicher für den **Inhalt**: Text-Inhalt (ohne Formatierung/Styling) auf der Website
   (z.B. Geschichte/Schauspieler/Versionen...); Textblöcke können auch copy/paste aus dem Internet sein)
 - Verantwortlicher für den **Style**: CSS Styles (möglichst reichhaltig, evtl. mit Bootstrap)
 - Verantwortlicher für die Einbindung eines **Formulars**: Erstellen eines Formulars auf der Website (z.B.: Registrierung
