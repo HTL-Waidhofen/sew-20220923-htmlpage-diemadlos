@@ -3,5 +3,28 @@ body {
 }
 img {
     width: 200px;
-    height: 100000px;
+    height: 200px;
+}
+.topnav {
+    overflow: hidden;
+    background-color: rgb(175, 159, 194);
+    } 
+  
+.topnav a {
+    float: left;
+    color:  #6a439c;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: rgb(102, 46, 139);
+    color: black;
+}
+  
+.topnav a.active {
+    background-color: #a696bb;
+    color: rgb(102, 46, 139);
 }
